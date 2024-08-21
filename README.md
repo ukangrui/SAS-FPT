@@ -1,9 +1,1 @@
-
-
-To replicate the results, simply run: 
-
-```
-python main.py --dataset=ml-1m --train_dir=default 
-```
-
----
+https://docs.google.com/presentation/d/1gz1xkX0ckCQrxfKs344oPpXCRciTBhs9xj7gUGZ16nQ/edit?usp=sharing
